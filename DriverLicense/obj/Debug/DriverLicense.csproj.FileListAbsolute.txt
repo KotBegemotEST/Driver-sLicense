@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.Form1.resources
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.Properties.Resources.resources
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\bin\Debug\DriverLicense.exe.config
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\bin\Debug\DriverLicense.exe
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\bin\Debug\DriverLicense.pdb
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.exe
+C:\Users\buket\source\repos\DriverLicense\DriverLicense\obj\Debug\DriverLicense.pdb
